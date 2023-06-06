@@ -18,10 +18,15 @@ public class EmployeeDetails {
 	private void empMobile() {
 		System.out.println("Employee mobile: 8939278836");
 	}
-	
+	private void empStatus() {
+		System.out.println("Currently working");
+	}
 	private void empId() {
 		System.out.println("Employee id : 1112");
 	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 681f283c101cedccbca360b8920c2fdb676a38d1
 	
 	//                main method
 	public static void main(String[] args) {
